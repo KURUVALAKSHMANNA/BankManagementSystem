@@ -150,6 +150,13 @@ Aspiring Java Backend Developer
 
 ---
 
+## Connect With Me
+- GitHub: https://github.com/KURUVALAKSHMANNA
+- LinkedIn: https://www.linkedin.com/in/lakshmanna-kuruva-749250334/
+- Email: kuruvalakshmanna4154@gmail.com
+
+---
+
 # ✨ Project Quote
 
 > “Every transaction in this project represents one more step in my Java development journey.” 🚀
