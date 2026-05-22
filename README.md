@@ -94,31 +94,6 @@ BankManagementSystem/
 
 ---
 
-# ▶️ How to Run the Project
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/KURUVALAKSHMANNA/BankManagementSystem.git
-```
-
----
-
-## 2️⃣ Open in Eclipse / VS Code
-
-Import the project into your Java IDE.
-
----
-
-## 3️⃣ Compile and Run
-
-```bash
-javac BankApplication.java
-java BankApplication
-```
-
----
-
 # 💡 Sample Operations
 
 ```text
