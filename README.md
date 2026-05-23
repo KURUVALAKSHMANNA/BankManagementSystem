@@ -66,7 +66,6 @@ This project focuses on:
 * ArrayList
 * File Handling
 * Exception Handling
-* Console-Based UI
 
 ---
 
@@ -80,17 +79,6 @@ This project focuses on:
 | Polymorphism      | Flexible method behavior                     |
 | Abstraction       | Hide internal banking logic                  |
 
----
-
-# 📁 Project Structure
-
-```text
-BankManagementSystem/
-│
-├── BankApplication.java
-├── transaction_history.txt
-└── README.md
-```
 
 ---
 
